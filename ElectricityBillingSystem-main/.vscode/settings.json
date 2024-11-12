@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\Users\\raibh\\Desktop\\iaf\\ElectricityBillingSystem-main\\ElectricityBillingSystem-main\\lib\\mssql-jdbc-8.4.1.jre14.jar",
+        "C:\\Users\\raibh\\Desktop\\iaf\\ElectricityBillingSystem-main\\ElectricityBillingSystem-main\\lib\\mysql-connector-java-8.0.21.jar",
+        "C:\\Users\\raibh\\Desktop\\iaf\\ElectricityBillingSystem-main\\ElectricityBillingSystem-main\\lib\\rs2xml.jar"
+    ]
+}
+
